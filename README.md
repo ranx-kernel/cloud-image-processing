@@ -87,7 +87,7 @@ Run the cells from top to bottom.
 
 The Gradio interface will generate a public URL:
 
-https://xxxxxxxx.gradio.live
+ https://8959b6548336b3825a.gradio.live
 
 Open the URL in your browser.
 
